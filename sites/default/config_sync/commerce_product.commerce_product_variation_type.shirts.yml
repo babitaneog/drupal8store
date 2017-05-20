@@ -1,0 +1,8 @@
+uuid: cf927d46-a3bf-4afa-8f72-ad280cc8bcad
+langcode: en
+status: true
+dependencies: {  }
+id: shirts
+label: shirts
+orderItemType: default
+generateTitle: false
